@@ -1,11 +1,11 @@
 # 域名后缀匹配
-DOMAIN-SUFFIX,javdb.com
-DOMAIN-SUFFIX,javbus.com
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,javdb8.com
-DOMAIN-SUFFIX,jav321.com
-DOMAIN-SUFFIX,r18.com
-DOMAIN-SUFFIX,avsox.website.com
-DOMAIN-SUFFIX,fc2club.net
-DOMAIN-SUFFIX,mgstage.com
+DOMAIN-KEYWORD,javdb.com
+DOMAIN-KEYWORD,javbus.com
+DOMAIN-KEYWORD,themoviedb.org
+DOMAIN-KEYWORD,tmdb.org
+DOMAIN-KEYWORD,javdb8.com
+DOMAIN-KEYWORD,jav321.com
+DOMAIN-KEYWORD,r18.com
+DOMAIN-KEYWORD,avsox.website.com
+DOMAIN-KEYWORD,fc2club.net
+DOMAIN-KEYWORD,mgstage.com
